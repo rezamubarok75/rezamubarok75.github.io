@@ -1,3 +1,5 @@
+lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
+playdigo.com, 1965, RESELLER, 92011346d63d3c30
 mintegral.com, 10038, RESELLER
 video.unrulymedia.com, 170071695, RESELLER
 video.unrulymedia.com, 123476257, RESELLER
